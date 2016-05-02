@@ -1,0 +1,50 @@
+IN ALGEBRAISCHEN EBENEN CURVEN. 7
+
+Die Curve RE geht also immer· durch den Punkt v = w = 0; die
+Evolute beriihrt folglioh ,τ = 0, wie im vorans ersichtlich war. Ubrigens
+miissen aber drei Fiille unterschieden werden:
+
+a.) n > 21η, 3180 n—m. > vn. RE beriihrt v = Ο und hat (vt—m, m)-
+Punkt3 E geht also durch ,τ -· z = Ο, welcher (rt—m, n—2m)-Punkt ist.
+Fig. l—‹4 zeigen die Formen und gegenseit-ige Stellung der beiden Cur-
+ven in den vier obengenannten Fiillen. Es entspricht niimlich, wie 111311
+durch Untersuchung der Indices sogleich findet,
+
+der Parabel-Form in C eine Spitz-Form 1⁰r Art in E,
+)) Inflexions- )> 1) 1) n Parabel 1) D 1) ‚
+1) Spitz- 1) 1⁰¹ Art ›) J) 1) InfleX.- ›) 1) 1) ,
+D 1) 1) 2⁰¹·Art.» 1) 1) Spitz- 1) 2⁰¹ Art 1) 1) .
+
+(1,) n = 2m, n--m = m. RE· beriihrt weder v = Ο, noch w = 0, weil
+die niedrigste oe-Dignitst in (21) und (22) dieselbe ist. Durch Elimina-
+tion von αἶ’· zwischen diesen erhiilt man
+
+(23) . . . . υ -Ι- 2Nw = N1(2m -i- 1)(ιι”·“*ι -Ι- ᾹΤ,(2ιη -Ι- 2)οι”’*’ -Ι- . . . .
+-—— 4N³ma³m — 2N ².N1(4m -Ι- 1>αι·””“““’“ —— . . . .
+
+RE beriihrt folglich v-l-2Nw = 0 und hat da, im allgemeinen einen
+(m ÷ 1, m)-Punkt. Weil aber sowohl der erste, als auch mehrere fol-
+gende Reihen-Coefficienten in (23) verschwinden 1161111811, so kennen die
+Indices auch <m -Ι- r, m) werden, wo r eine positive ganze Zahl ist.
+Hieraus folgt nach dem Principe der Dualitat: E geht durch den Punkt
+a: y — 2
+
+’ὁ ²² Ϊ ““ ΞῙΤ '
+deren Fauen ein (m -Ι- r, r) ist.
+
+welcher im allgemeinen ein (m -i- 1, 1), aber in beson-
+
+Weil n = 2772 ist, muss dieser Index gerade sein; C muss also ent· ,
+
+weder Parabel- oder Spitz-Form zweiter Art haben. Fig. 5, 6 stellen
+die Curven C und E dar im ersten Falle fiir resp. r ungerade und ge-
+rade3 Fig. 7, 8 im zweiten F alle.
+“ Einetn yewc'iknlichen C-Punkte (2, 1) entspricht also im allgemeinen
+ein ebensolcher in E, aber in besonderen Fallen ein (r -Ι- 1, r). Der
+letztere enthfflt ἰ’-1 Riickkehrpunkte‚ aber offenbar niemals eine Ric'clc-
+lcelzrtanqente.
+
+αδ) n < 2m, n—m < '¹⁷²3 RE beriihrt w = Ο und hat (m, ⁷2—--m)⁴
+’ Punkt3 Ε geht also durch Ο, welcher (m, 2m—n)-Punkt ist. Fig. 9-12
+zeigen die beiden Ourven.
+

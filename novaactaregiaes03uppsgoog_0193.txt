@@ -1,0 +1,67 @@
+Fonmns Pomz LA Dss'rERMlNA'rmN etc.. 29
+
+6. Prcmver les courbes dont la tor-§ion et la combure satis-font ὰ
+
+l’e'quation
+aT -1- bs< = 1 .
+
+On sait qu’il doit exister entre la toreion et la courbure d'une courbe·
+
+donnee une equation lineaire, afin qu'il soit possible de trouver une autre
+
+courbe dont la normale principale appartienne aussi ὲ la courbe donnee.
+
+Or nous cherchons en ee cas les courbes qui satiesont ἐι cette condition.
+Les equations du theoreme 1, misee sous la forme suivante
+
+dre = sinA sinB . ds ‚
+dy = sinA cosB.ds ,
+ἅτ = cosA.ds ,
+
+ἔθ’ -1- q2 = sin²A ,
+p dB
+
+ 
+
+ξι· &uA-(TE 7
+a.dp ·†- b.doosA ·†- q.ds = Ο ,
+dcosA
+— φάε > O ,
+
+nous fournissent la solution
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+da· = ὸν l †ffl·—PZ — αφ’-’.φῦ SianB
+3(1-1-q=³‘²)V1-}-sv⁷¹ 1-1-ει>”’-Ι-’>’>’“”ξ ’
+d = ὀγΙψφῗψί-ἠ- ἐξω-ΡΨ). cosBclB
+y 3(1÷w²)V1-1-w² l÷sv²÷ffl '
+cla = ,ῙΞ-γέ-,ῒ-φ.2“1“.ῗίζ”- .- α(φ“1“φζ)- φάΒ
+{(1÷w2)V1÷9>² 1-1-φ”-1-φ””’ξ ’
+
+ 
+
+φ etant une fonction arbitraire de B, seulement assujetie ὲ, la condition
+
+b—aw-i-w'ssl-l-fflWl-kw >0.
+
+(1 ψ φ’ψφῆν ÷ 14²÷ffl
+
+ 
+

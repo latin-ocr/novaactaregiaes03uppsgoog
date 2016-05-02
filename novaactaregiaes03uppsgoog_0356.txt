@@ -1,0 +1,63 @@
+20 C. F. E. Bsossmno, Unnn nnrsrnsscnssnnss SmGULAan-ATEN
+
+flexionen kennen dabei verloren gehen, eowie auch neue solche hinzu-
+treten ¹).
+
+ξ 20. Wenn die Originalcurve unicursal iet, und ihre Liniencoordi·
+naten u, v, w sich folglich als rationale und ganze Funktionen neten Gra-
+des von einem Parameter daretellen laeeen‚ kann dae Geschlecht der Pa-
+rallelcurve leicht gesunden werden und somit zur Controle der Charak-
+
+terbeetimmung dienen. Die Liniencoordinaten (u, v, w ss k Vu² -Ι-ιῙ) die·
+ser letzten Ourve werden namlich dann rational bis auf die Quadratwur·
+zel aue einem Ausdrucke‚ welcher vom Grade 2ν ist, ineofern nicht qua-
+dratische Faktoren sich ausserhalb dem Wurzelzeichen fiihren lassen.
+Dae Geechlecht einer Curve, deren Coordinaten rational sind bis auf
+eine Quadratwurzel aus einem Auedrucke n-ten Gradee, iet aber (wie sich
+
+.-
+
+leicht zeigen lasst) ⁷-2—1 oder
+
+2 2 ‚ jenachdem η gerade oder unge-
+
+ 
+
+rade iet.
+Ale Beispiel untersuchen wir die Parallelcurve der Curvo y* = ax*
+(n > m, und beide relative Primzahlen). Hier iet ,ιι = νε n, ὃ =r=
+
+= Ξἔπι-2) (vt—3), κ = ι = π-2. Die Ourve hat einen (n, m)-Punkt in O-
+
+und einen (n, n—-m)-Punkt fiir a: = z = Ο, senet keine singularitatem Man
+erhalt also ν’ .- 2η, μ’ .-..- 4n-2m, ι’ = 2η-4, und hieraue das Geschlecht
+
+¹) Dase der ziemlich allgemein angenomme Regel ι’ = 20 gar nicht ausnahms·
+los ist, zeigen sehon folgende Beispiele:
+
+1) Die dreispitzige Hypocycloide hat die Charaktere: μ = 4, δ = Ο, κ --·3,
+ν = 3, c = 1, ι = Ο; sie beriihrt die oo-Linie in I, J. Ihre Parallelcurve hat also
+(ξ 17, (12)) in jedem dieser Punktc einen Zweig mit den Indices (4, 2), und ihre Cha-
+raktcre werden μ.’ = 8, ν’ = 6, ι’ = 2.
+
+2) Die Cardio'ide und ihre Parallelcurve haben dieselben Charaktere wie die
+ebengenannten curvem der Ursprung der Infiexionen ist aber hier etwas anderer.
+Die Originalcurve hat niimlich in I, J Spitzen (d. h. (3, 2)-Punkte) mit endlichen
+Tangentem Ρ hat also (ξ 17, du» in jedem dieser Punkte einen Zweig mit den In-
+dices (6‚ 4).
+
+3) Die in ξ 12 erwiihnte Curve 9ay² = x (ae—3a)² (wo μ = 3, ν = 4, ι = 3)
+hat eine zerfallende Parallelcurve, von welcher jeder Bestundtheil die Charaktere
+μ’ -- 5, ν’ -- 4, ι’ = 1 hat. Zwei endliehe Riickkehrtangenten der Originalcurve gehen
+niimlich durch I und J 3 jeder ihrer (3, 1.)·Beriihrungspunkte erzeugt also (ξ 15, bd)
+zwei (2, l)·Punkte der Parallelcurve, oder m. a. W. die betreffenden G-Inflexionen
+gehen verloren.
+
+ 
+
+ 
+
+ 
+
+ 
+

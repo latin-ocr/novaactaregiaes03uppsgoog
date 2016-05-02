@@ -1,0 +1,45 @@
+IN ALGEBRAISCHEN EBENEN CURVEN. 5
+
+Nach den beiden Zahlen n, m -—· »dem ersten und zweiten Index
+des Punktes Ο - benennen wir denselben einen (η, m)-Punkt. Ein
+(2, 1>-Punkt ist also ein gewbhnlicher, nicht singularer ¹); ein (3, 2)-
+Punkt eine Spitze‚ ein (3, 1)-Punkt eine Inflexion. Ein (n, 1)-Punkt
+enthfflt offenbar nur Liniensingularitiiten (doppelte und Riickkehr-Tan-
+genten); ein (n, n—1)-Punkt folglich nur Punktsingularitiiten (doppelte
+und Riickkehr-Punkte). Denn im allgemeinen erhiilt man, durch Ver-
+gleichung von (9—11) mit (12—14>:
+
+Eira (n, m)—szkt ist immer zu einem (n, n—722)-Pankte reciprok.
+
+Wenn die Gleichung einer Curve gegeben ist, kann man bekannt-
+lich eine, in endlicher Umgebung eines gegebenen ihrer Punkte giiltige„
+Entwickelung von y nach steigenden‚ ganzen oder gebrechenen Potenzen
+von a: erhalten‚ wenn man 0 in diesen Punkt· verlegt und die Tangente
+des betreffenden Curvenzweiges zur «sc-Axe nimmt3 nfimlich
+
+η „41 ηψπ
+(15) . . . . y = N<(x))³ ψ N1«oe»³³s ψ Ν,((ω))“”·“ ÷ . . . .
+
+Wir setzen dann ’
+(16) . . . . oe = am, also y = Naa'⁸ -Ι- N1oe¹⁸4¹ -1- ΝμΡΗ -Ι- . . . .
+
+und nehmen im folgenden immer die Coordinaten der Curve C in dieser
+oder analoger Form ausgedriickt an.
+
+EVOLUTE N.
+
+ξ 3. Die Evolute Ε ist die Enveloppe der Normalen der Original-
+curve oder Evolvente C3 bei der Untersuchung ihrer Singularitiiten ver-
+fahren wir also folgendermassen. Die C-Normale sei
+
+(17) ............ αξ-ι-ι-η-ι-ωζεω
+
+ιι, v, w sind also die Liniencoordinaten der Evolute oder die Punktcoor-
+dinaten ihrer reciproken Gurve RE; aus der Beschaffenheit dieser letzten
+im betreffenden Punkte ergiebt sich nach dem Principe der Dualitfit un-
+mittelbar diejenige der Evolute. “
+
+¹) Womit natiirlich nicht ausgeschloseen ist, dass durch denselben Punkt der
+Ebene ein auderet Zweig derselben Curve‚ wozu ein anderer a-Werth und andere a·
+Entwickelung geheren, gehen kann.
+

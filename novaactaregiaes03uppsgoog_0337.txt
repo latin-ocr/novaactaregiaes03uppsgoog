@@ -1,0 +1,35 @@
+Im folgenden wird die Frage behandelt: Wenn zwei Curven C und Ο
+in irgend einer Verwandtschaft mit einander sind, welche Singularitas: in
+G' entspricht einer gegebenen C-Singularitiit? Ffir diesen Zweck benut-
+zen wir eine Reihen-Entwickelung der Ooordinaten‚ analog mit der von
+Omnscn fiir unicursale Ourven gesundenen rationalen Substitution.
+
+Diese Methode wenden wir dann auf drei Falle an, namlich wenn '
+C' die- Evolute der Ourve C ist, oder ihre Parallelcurve‚ oder daraus
+durch quadratieche Transformation gebildet. Aue den so erhaltenen Re-
+sultaten kennen in der That die entsprechenden fiir die meisten‚ gewbhn·
+lich in Frage kommenden Falle leicht hergeleitet werden. Von quadra-
+tischen Transformationen (wovon die circulare Inversion bekanntlich nur
+eine Specialitiit ist) kennen ja alle fiir die ganze· Ebene eindeut-igen
+Traneformationen (die Cremona'schen) zusammengeeetzt werden3 die Tan-
+genten-Fuespunktcurve einer Curve C ist die Inverse ihrer Reciproken‚
+ihre negative Fusspunktcurve dagegen die Reciproke ihrer Inversen; die
+Normalen-Fusepunktcurve ist die Fuespunktcurve der Evolute, und die
+Reflexions-Brennlinie die Evolute der Fusspunktcurve.
+
+Die Lesung des hier behandelten Problems ist, wenigetens was die
+beiden eretgenannten Oerter betrifft, eine nothwendige Bedingung um die
+mehrmals behandelte Frage von der Bestimmung ihrer Pnficxssn'schen
+Charaktere vollstandig beautworten zu k6nnen. Um nur von den Evolu-
+ten zu reden, ist es noch nicht gelungen und wird wohl auch niemals
+gelingen ihre Charaktere durch in allen Fallen richtige Formeln auszu-
+drficken. In dieser Beziehung mag es hinreichend sein auf die anseres-
+
+ι wissens bieher vollstandigste Untersuchung iiber diesen Gegenstand
+
+(Cumis, On evolutes and parallel curveS, Quarterly Journal of Mathema-
+tice, Vol. XI, S. 183) hinzuweisen, wo der beriihmte Verfasser eine sehr
+ausfiihrliche Tabelle aufstellt iiber die Veriinderungen‚ welche die Ord-
+=nung‚ Classe, Spitz- und Infiexions·Zahlen der Evolute erfahren, wenn
+Nova Acta Reg. Soc. Sc. UpS. Ser. 111. > l
+

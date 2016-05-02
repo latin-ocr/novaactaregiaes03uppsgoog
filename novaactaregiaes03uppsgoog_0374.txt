@@ -1,0 +1,57 @@
+8 O. Pss-rmnsson, Expnmnsswrmm Mea-nomm um> Unvnsssucnumnn
+
+Um die specifische Wiirme des Queckeilbers (= x) zu erhalten‚wer·
+den die entsprechenden Versuche mit Quecksilber und Wasser combinirt:
+
+A mit A.; Β mit Β1 u. s. w, Die Combination ΑΑι liefert z.B. das fol·
+geude System von Equationen:
+
+A1=309.7⁶4 α 21⁰.325= 158.910. 4⁰.315-{-25.04 x ’ἕλκω-143320 α 4⁰.315-{-2.25. 01937. 40315
+A = 309.754 α 210225: 4467.517 x 4⁰.58-{-25⁰.04 x 4⁰.58-{-44.195a 4⁰.58-{-2.25. O.1937. ωε
+
+Siimmtliche Quantitiiten in beiden Gleichungen, welche die «wasser-
+werthe» des EisencylinderS, des Calorimetergefiisses und des Thermo·
+metere ausdriicken, haben in Al und A anniihernd gleich grosse
+Coefficienten. Wenn jetzt. die Gleichung A von A¹ subtrahirt wird,
+so werden diese Quantitfiten nach der Subtraction verschwindend klein
+gegen diejenigen, welche die Wiirmemengen enthalten‚ welche von dem
+Quecksilber [m¹ =44ss7.517 Gn] und von dem Wasser [m = 158.91o Gn]
+ausgenommen worden sind. Man erhfilt durch diese combination [nach
+Substitution von α =O.10768 aus Al]
+
+158.910. 4⁰.315
+4467.517. 4⁰.58
+
+ 
+
+spec. Wiirme von Hg. Β x= -0.0002523
+
+Das letzte Glied 0.000252 ist ein Rest, der aus denjenigen Gliedern von
+A u. Al entstanden ist, welche die «Wasserwerthe» des Eisencylinders, des
+OalorimeterS, des Thermemeterglases u. s, W. enthalten. Sollte man
+darfiber einige fehlerhafte Annahmen gemacht haben, werden diese im
+Resultat ihren Einfluss nur auf ein Glied der'Gleichung ausfiben, der
+an sich gering ist. Dadurch‚ dass man die beiden Reihen von Be-
+stimmungen in ganz {ihnlicher Weise auefiihrt, erreicht man:
+
+1) dass der Werth von x unberiihrt von allen Nebenum·
+stiinden und Annahmen iiber den Waseerwerth der Ge·
+fiisse, des Thermemeters¹) u. e. W. wird.
+
+2) dass man die specifische Wiirme des Quecksilbers auf
+Wasser von 0⁰ bis ÷5⁰C bezogen erhiilt.
+Discussion der Methode: Bei der Untersuchung iiber die Genauig·
+keit der Methode kennen wir von dem letzten Glied 0.000252 absehssss
+und brauchen nur auf:
+
+158.910.4⁰.315 ιυτ
+m oder X=¹¹¹1²1 . . .· . .
+
+ 
+
+x=
+
+¹) Auch wenn man verschiedene VVerthe von α in der Gleichung substituirt z-
+B. den von anmnm gesundenen Werth (α =O.11379) statt den oben gesundenen
+(a=0.10768)‚ findert dies nicht im geringsten den Werth von x.
+

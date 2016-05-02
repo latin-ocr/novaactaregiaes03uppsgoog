@@ -1,0 +1,39 @@
+22 O. F. E. Bsoaumr Unm ENTSPRECHENDE Smeummrlrrm
+
+Bezeichnen wir mit resp. Ο, 1, 2 fiir einen C-Punkt‚ dass derselbe
+auf resp. Ο, 1, 2 Fundamentallinien negt, und fiir eine C-Tangen1e‚ dass
+dieselbe durch resp. O, 1, 2 Fundamentalpunkte geht, so miissen offenbar
+die folgenden sieben Faue (in welchen die erste Ziffer auf den c-Puukt‚
+und die zweite auf die C-Tangente Beziehung hat) unterschieden werden:
+
+a)0‚0;b)0‚1;c)1‚0;d)1‚1;e)1‚2;f)2,1;9>2,2.
+
+ξ 23. a) Der C-Punkt sei ἶ. .- Ξ = {. (wo weder Ιι, k, noch
+
+lc—-lc = Ο), die C-Tangeute y—lcz = ,τ-Ιιε, also die C-Coordinaten
+(66) . . . oe—lzz = am, y—kz—(aemlaz) = Ναί· -ι- N] αι.’”“’“ι -Ι- . . . ‚ folglich
+
+(67) ....... y—-lcz=oe”÷.Noe”-}-A'‚oe”*¹÷...‚ z=l;
+die Formel (65) giebt also
+
+(68). . . . x‘=lc÷a”²÷Na·q-N,a··÷²÷... ‚ y'=lt-fl·-a¹'⁸‚
+(69) ..... z‘ = (h 4- oeffl) (1⁶24- al* -ι- Na* -Ι-Ι.Ν”,ιιι,’··Η -Ι- . . ..)
+Der o-Punkt ist. Ξ- = εἶ- = ἦ . Aus (68, 69) folgt
+(70) ..... z'—lz:c' = oemUc -Ι- am -1- LV& -Ι- N1ae÷¹ -ξ- . . .) ‚
+(71) ..... 2'—ky' = (lz 4- am) (am 4- Na* ..ι- N1ffl1 -Ι- . . .),
+
+und hieraus, durch Elimination von 2¹²² ,
+
+(72) . . . . ll²oe'—k²y'†(lc—l1)z'=lek(ZVoe¹⁸-{-N¹oe”*¹† ,..)-,-
+
+Die C-Tangente wird also k²y'—lc².v' = (Ιε-Ιι)ε’; die Indices im Faue
+
+αι) n > 2122 : (2222, m);
+
+⁶⁸2) π = 2m : Dieselben, insofern nicht der Ooefficient fiir σθ’· iu (72)
+(und mbglieherweise auch mehrere folgende> verschwin-
+det. Die Indices werden daun <2m-l-r, m), wo r eine
+positive ganze Zahl ist3
+
+α.) n < 2112 : (η, m).
+

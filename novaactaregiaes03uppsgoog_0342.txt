@@ -1,0 +1,50 @@
+6 Ο. F. E. Bscnnmc, Unum un'rspnsscnssnnu SmGULAm‘rtvrssn ’
+
+Die Normale ist die durch' den C-Punkt gehende Gerade, deren
+Schnittpunkt mit der oo-Linie mit dcmjenigen der C-Tangente harmonisch
+conjug-itt ist in Bezug auf die unendlichen Kreispunkte I, J. Bei der
+Behandlung· der C-Singularitfiten miisscn wir also vier verschiedcne Faue
+
+untcrscheiden :
+a) Der c-Punkt ist endlich, und aeine Tangente geht nicht durch 1
+
+oder J. Wir verlegen daun den Anfangspunkt 0 in diesen Punkt und
+nehmen — was immor erlaubt ist, da eine Drehung des Ooordinaten·
+systema die Lage der Kreispunkte nicht veriindert — die C-Tangente
+
+zur ae-Axe.
+
+b) Der C-Punkt· ist endlich, und scine Tang-ente geht durch I oder
+J, d. h. ist Focaltangente. Wir verlegen Ο in den C-Punkt.
+c) Der C-Punkt ist unendlich aufferat, aber nicht Kreispunkt. wir
+
+legen die :gs-Axe durch den C-Punkt.
+d) Der C-Punkt ist ein unendlicher Kreispunkt.
+
+ξ 4. a) Die Coordinaten απ, y der Originalcurve C scien wic in (16)
+ausgcdriickt (z = 1), und folglieh
+
+Q = mmm-¹, Q = A⁷noe”‘¹ ..1- N,(n -Ι- 1)α,” -fl- N2(n -Ι- 2)a’⁸†¹ 4- . . ..
+
+da· (Ιαι
+
+(18)
+Die C-Normale ist
+,μωμηὲᾱ-ωψέω-ψ--ο oder gi÷ggn-(oeg÷yg)g .-. 0;
+
+durch Vergleichung mit (17) ergiebt sich
+
+ 
+
+(20) ........ ..ἓξὲξ df dy,
+da. da. “(xd—oe4932)
+
+und folglich, nach Verkiirzen mit cvm-¹, da wir den Proportionalitfits- ¹
+faktor, auf dassen Werth es nicht ankommt, hier wic iiberall im folgen-
+den = 1 setzen,
+
+(21) . . . u = m, v = Nnoe¹⁸'”⁸ ÷ N1(n -·Ι- 1)a¹'-”⁸·¹'¹ -Ι- N2(n -Ι- mast-⁸⁸4² -Ι-....,
+(22) ...... -·- w = mam -i- Ν ’unffi-'¹⁸ -·Ι- ΝΜ(2η -Ι- l)ue.·²¹¹‘·¹'⁸⁴¹*1 -Ι- . . . .
+
+ 
+

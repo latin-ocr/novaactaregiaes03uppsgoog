@@ -1,0 +1,52 @@
+m Anessnnssscnssu menum< Cunvnn. 11
+
+gemeinen entepreehen sich die Ourven G und E eindeutig ¹); eie haben
+dann desselbe Geeehlecht‚ und dieses kann ale Controle der Charakter·
+bestimmung dienen. .
+
+Um die drei genannten E-Charaktere μ’, ν, ι’ bestimmen zu kennen‚
+muse man von der Ourve C im voraus kennen lto) ihre Charaktere, 220)
+ihre Punkteingularitiitem 320) die Besehaffenheit ihrer unendliehen Punkte,
+und 420) ob irgend eine ihrer (endliehen) Focaltangenten in endliehem
+Punkte eine Beriihrung von hbherer Ordnung als der ersten hat, oder
+m. a. W. ob zwei oder mehrere der endliehen Sehnittpunkte der Curve
+Cs(oe‚ y) = 0 und der ersten Polare fa'c ss τῇ .-- 0 eines Kreiepunktee an
+irgend einer stelle <anderen ale in Punkteingularitae‘iten von G) zusam-
+mensallen.
+
+§ 9. Um μ’ zu finden, bestimme man die Anzahl der unendliohen
+E-Punkte. Dieee entstehen
+
+lto) in Falle a) fiir n > 2m. Diese C-Singularitfiten miiesen aleo
+jede fiir sich untereucht werden, doeh nicht wenn sie nur Liniensinqulari-
+ίᾶτεη, d. Ιι. (η, l)-Pemkte sind ²). Ein soleher C-Punkt erzeugt nelmlieh
+(ξ 4) ττι-2 unendliehe E-Punkte‚ d. h. ebeneo viele ale die in diesem
+G-Punkte enthaltenen Inflexionen3 darauf wird aleo im folgenden Mo-
+mente 220) Rfioksicht genommen.
+
+2:0) aus den endlichen Inflexionepunkten der Evolvente, ineofern
+sie nieht mit Punkteingularitiiten verbunden sind, oder die Inflexionstan-
+gente durch Kreispunkt geht. Der erete Fall ist im vorigen Momente
+behandelt‚ im zweiten geben die C-Inflexionen keine unendliehen E·-
+Punkte 5).
+
+3:o)(§aue den unendliehen C-Punkten, welche jeder fiir sich nach c)
+und d) (ἐξ 6, 7) untereueht werden miiesen.
+
+ξ 10. Um ν’ zu finden, bestimme man die Anzahl der E-Tangenten‚
+die aus einem arbitrfiren unendliehen (nieht Kreie-) Punkte P gezogen
+werden kfmnen, Diese Tangenten sind
+
+-.--—-————-.‘- m*
+
+ι) Doch ist dieses nicht immet der Fan. Die Curve G und ihre Parallelcurve
+P haben dieuelbe Evolute E, aber im letzten Faue doppelt gereehnet‚ d. h. einem
+E·Punkte entepreehen ,ποθί P-Punkte (Οιηιῐ, Quarterly Journal, Vol. XI, ε. 194).
+
+²) Dieeer Umstand ist in praktieeher Hinsicht von wichtigkeit‚ deun die Be-
+
+· stimmung und Untersuehung dieser Singularitaten iet bekanntlich — da wir die Glei·
+
+chung der 0-Curve in Punktcoordinaten gegeben vorauesetzen — bei weitem schwie·
+riger als diejenige der Punktsingularitfiten.
+

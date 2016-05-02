@@ -1,0 +1,48 @@
+m ALGEBRAlscnen ΕΒΕΝΕΝ Cunvssn. 21
+
+ῤ’ = n—m—l. Hier kennen aber u = kam, v = loc· gesetzt werden, wo
+die Werthe der Constant-en lc, l gleichgfiltig sind3 also wird Vu² -Ι- υ“·’ =
+= ου’* Vlc²4 l²oe²‘”‘''⁸)‚ welches dasselhe p‘ giebt. ’
+
+ 
+
+ 
+
+ξ 21. Inwiefern die Parallelcurve in zwei Theile zerfiillt oder nieht,
+ergiebt sich natiirlieh in jedem einzelnen Falle aus der Charakterbe-
+etimmung ¹); dass (138 erste im allgemeinen nieht eintrifft, hiingt offenbar
+davon ab, dass in b> und d) die eonst- getrennten beiden Zweige sieh
+gewbhnlieh zu einem einzigen vereinigen. Eine notha-encliqe Bedingung
+fiir (138 Zerfallen ist 3180, (1388 eine solehe Vereinigung nieht stau-findet,
+oder m. a. W„ (1388 immer in b> n——m‚ in dl) n, in (1,) m gerade sei.
+Dagegen ist 88 nicht nothwendig, dass »die Originaleurve keine Focal-
+tangenten habe›>; in solehem Falle wird freilieh jeder Theil der Parallel-
+curve von gleieher Art mit dem Original, ein Zerfallen kann aber auch
+andernfalle eintreffen. (Siehe z, B. (138 dritte Beispiel in der Not-e S. 20).
+
+QUADRATISCHE leArisFossmA'rloN.
+
+ξ 22. Die Punktcoordinaten tv, y, z der ersten ‘Curve C seien mit
+denjenigen ω’, y‘, ε’ der zweiten C' durch die Gleiehungen .
+
+ιε’. ‘es' z'
+((15)Μῇεῆεῆ
+
+verbunden ²). Es giebt in jeder Ebene drei Fundamentalpunkte 0, Ι), Q
+(α) = y = Ο, x = z = Ο, y = ε = Ο) und drei entspreehende F undamental-
+linien ΡΩ, QO, ΟΡ (Z = Ο, 3! = Ο, a: .-.- Ο).
+
+¹) Die sowohl nothwendige als hinreiehende Bedingung fiir (138 Zerfallen ist
+bekanntlich (SALMON, l. e.. S. 122), dass die Liniencoordinatengleichung der Original—
+curve sich in die Form
+
+ 
+
+Μ -- [ξῑὲῑῑῑ 23: Ἤ
+
+wo φ, ψ ganze homogene Funktionen bodemen, bringen lasse3 das Erfiillen dieser
+Bedingung ist jedoeh etwas schwierig zu untersucben‚ wenn — wie wir hier immer
+voraussetzen — nur die Punkteoordinatengleichung der letzten Gurve gegeben ist.
+
+²) SALMON, H6h. Bb. Cuweu, S. 361.
+

@@ -1,0 +1,35 @@
+By researches on the method of elimination‚ which has first been
+given by Bsszour and developed afterwards by Quom, M. Curm- and
+others, I have found the following method to obtain the greatest common
+measure of two rational integral functions of at. ·
+
+When the greatest common measure involves a factor of the form
+oefl‘, that factor derives from the existence of faetors of the form ,τ’ and
+ως in both the given functions. Clearing the given functione of such
+factors, the other faetor in their greatest common measure will be the
+greatest common measure of the new functions thus obtained. There-
+fore it ie evidently sufficient to treat the problem of finding] the yreatest
+, common measure of two rational inteyral functione, neither involvinq α power
+of τι· as faetor.
+
+Ι. Supposing we have the functione
+
+ΦΨ) = onm -{- AIfflffl -1- rim—„z -1- Am*
+(1) ····· (φφ.) = 30³³* -1- B1oe⁸’¹ -Ι- B„„ae -Ι- B„
+
+and m < n, we get the theorem:
+
+If
+A„ A, Ξ ..142‚
+
+(2) ........... 33²3] '‘'‘'‘”B,„
+
+Φζω) and Ψ(.τ> ean only differ by a constant faetor, zf m = n,- but ffm<m
+thei-r yreatest common mea-sure is the same as that of the sanction-s ⁴³(oe) and
+w2(oe), where
+
+(3) ...... qm> = ,emam-² -ι- ..... -ι- ΒΗω -ι- Β..
+
+For from (1) and (2) we get
+Nova Aeta Reg. Soc. Se. Ups. Ser. 111. l
+

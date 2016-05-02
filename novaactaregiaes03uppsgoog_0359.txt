@@ -1,0 +1,49 @@
+m ALGEBRAISCHEN Ber-:um Cussvssu. 23
+
+Einem nieht auf Fundamentallinie belegenen doppelten oder Rfiokkehr-
+Punkte der C-Curve entepricht bekanntlieh in der O-Curve immer ein
+Punkt derselben Art. Es wfire aber unreeht zu glauben, dass dasselbe
+fiir eine beliebige Singularitiit gelte. Dieses ist, wie man sieht, nur fiir
+n < 2m wahr3 sonet geht z. B. eine (n, 1)-Punkt immer in einen nicht-
+singulfiren, und umgekehrt in vielen Pallen der letzte in den ersten fiber.
+
+Dagegen miiesen offenbar, in Folge des eryvzihnten Samene, die Anzab-
+len der in einer Singularitiit vereinigten doppelten und Riickkehr·Punkte
+bei der Transformation unverfindert bleiben. Was die letzten betrifft,
+sant dieses sogleieh in die Augen, da der zweite Index m keine Verfin-
+derung erleidet.
+
+ξ 24. b) Die C-Tangente geht durch einen Fundamentalpunkt, es
+
+eei Ο. Es genfigt in den F ormeln der vorigen ξ lc = Ιι zu setzen. Aue
+(70) und (72) ergiebt sich daun
+
+(73) ...... z'—sz' = αι”ᾟι -1- 2²⁹⁸ 4- Na* -ι- Nloeffl 4- . . .).
+
+(74) .......... oe'—y' = ΝΕ* -4- Νιοϋ·Ἠ -4- . . .
+
+Der 0‘-Pun1‹t wird also 2²²1- ἓ ssL' ε ί
+
+l k ‚ Tanyente und Indices unver-
+
+c'inclert.
+
+ξ 25. c) Der C-Punkt liegt auf einer Fundamentallinie‚ es sei y = 0.
+In den Formeln der ξ 23 setzen wir k=0. Aue (68) und (70) folgt
+
+(75) . . . ,τ’ -- 2⁹¹⁸ -1- N'ae'· -ι- ΛΤιαΓΗ -4-..., z'—lzoe' = am(oe''⁸÷ZVoe”-{-N¹oe”4¹÷...).
+
+Der U-Punkt wird also g- = {L = g, die G-Tangente ε’ .- kx‘, die
+
+Indices (2m, m).
+
+ξ 26. α) Der c-Punkt sei}
+
+= ἷό- -- ΖΪ, die C-Tangente oe= Ιιε. Aus
+(76). ..... x=h÷Na²·÷N]a⁸4¹..., μεθ, z=l
+folgt, nach (65),
+
+(77) ....... ,τ’ = 2⁶⁸ ‚ z'-lz.v' = αι”’(Ναι” -1- N¹oe¹⁸4¹ -1- . . ..)
+
+ 
+

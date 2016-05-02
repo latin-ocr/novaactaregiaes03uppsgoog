@@ -1,0 +1,31 @@
+ΟΕ· Two RATIONAL INTEGRAL FUNCTIONS OF ιτ. 5
+
+we have to write them thus
+
+oen-r(a„aer÷...÷af> = —(ar÷1oe”··‘·¹÷··-÷a„>‚
+ff-‘(b0ae‘÷...÷b„) = -(b„÷1x'¹·'*¹÷···-!-. b..)‚
+
+in order to form the equations required in CAUcHY's method of elimina·
+tion (See, for instance, M. Doswon, E'le'ments de la lee'orie des De'termi-
+παηῖε, pag. 118), then to divide, one by another, these last-written
+equations‚ which gives ·
+
+aooe'†...÷a„ - α,,Η.τ”“”··1-4-...-ι-α,,
+
+boa-r 4...÷b„ br÷1ff''-¹÷···÷b..'
+
+and finally to clear of fractione and to transpose all the terms to the left.
+member. We thus obtain an equation, the left member of which evi-
+dently is the very function fr(oe), such as it is written in (6) cleared of
+superfluous terms.
+
+VI. As to the method now given we make the following re-
+
+marks, viz.
+
+l⁸‘ly Every time the Rule in IV is applied, it gives two new sunc-
+tions, both of lower degree than the next foregoing ones, and
+
+2⁰⁶¹5 It does not require any division, because that in V can be
+replaced by multiplication and subtraction.
+

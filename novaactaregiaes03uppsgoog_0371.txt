@@ -1,0 +1,51 @@
+m Dua PHYSIKALISCHEN Onnum. 5
+
+welche con stant ist (man wartet namlich den Augenblick ab, wo das
+Calorimeter vellig die Temperatur der Umgebung ((Ζ» und «1» ang-enom-
+men hat, und der Stand des Thermometers B auch beim Umriihren con-
+stant¹) bleibt), das Maximum passirt, und schliesslich, unter gleichmas-
+siger Bewegung des Riihrers «d», diejenige Temperatur ((δ» erreicht hat,
+wovon das Sinken dee Thermometers «B» vollkommen regelmaesig erfolgt.
+Diese Temperatur «3» wird als die Endtempcratur des Versuches notirt.
+
+Ε8 gehbrt allerdings etwas Umsicht dazu, den Versuch 8ο zu leiten,
+dass die Temperatur «o» des Luftbades und «t» (Anfangetemperatur des
+Calorim:s) ungefahr gleichzeitig constant werden, weil dieser Zustand
+sich nicht beliebig lange erhalten lasst, aber man gewinnt dadurch den
+Vortheil, dass diese Temperaturen vollkommen sicher bis zu 535 Grad
+observirt, und ohne irgend eine Correction in die Rechnung eingefiihrt
+werden kbnnen. Dagegen miissen die Warmeverluste des Calorimeters
+von dem Augenblick an ermittelt werden, wo der Versuch angefangen
+ist bei der Temperatur «t», bis zu demjenigen, wo die wirkliche End-
+temperatur ((3)) des Experiments observirt worden ist. Wenn man die
+Temperaturabnahmen, welche das Calorimeter wahrend dieser Zeit in
+jeder halben Minute erlitten haben wiirde, zu ((3)) addirt, erha‘lt man die
+corrigirte Endtemperatur des Versuches «31» d. h. die Temperatur, welche
+das Calorimeter sogleich erreicht haben winde, wenn die von dem Eisen-
+cylinder empfangene ⁹) Warmemenge [= 309,745.0.108(o—‹5)] sich augen-
+blicklich in ihm vertheilt hatte. Wir empfehlen die folgende Art der
+Correction besonderS, weil sie sich fiir alle Bestimmungen nach der
+Mischungsmethode gleich gut eignet, aufsserordentlich einfach ist und
+keine hypothetische Annahme enthalt.
+
+Correction von ((ὣκ Nachdem die Endtemperatur ((3)) bestimmt, und
+ein ferneres regelm‘a‘ssiges Sinken der Temperatur constatirt ist, wird ein
+erwarmter Glasstab einige Secunden in das Calorimeter getaucht, wodurch
+die Temperatur nochmale etwas iiber das bei dem Versuch observirte
+Maximum steigt. Von da an werden die Observationen regelmassig fort-
+gesetzt, bis die Temperatur des Calorimeters betrachtlich gesunken ist.
+
+Man erhfflt dadurch eine Tabelle, welche iiber die Abkiihlung des Calo-
+
+ 
+
+rimeters bei verschiedenen Temperaturen Rechenschaft giebt, und man ’
+
+braucht nur, fiir die observirten Temperaturen zwischen «t» und (ὦ) die
+ensprechenden Werthe aus der Tabelle einzufiihren, um zu wissen, wie
+
+¹) Also = 0⁰, oder wenig dariiber, wenn «Z» mit Eis «1» umgegeben iet.
+
+²) Spec. Wfirme des Schmiedeeisens zwisehen -1-40 und -1-370 C = O.108. Mittel
+aus 10 Versuchen.
+

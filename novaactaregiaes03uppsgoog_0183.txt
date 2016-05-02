@@ -1,0 +1,48 @@
+FORMULES Poun LA ΒΕΤΕΒΜΙΝΑΤΙΟΝ ete. 19
+
+ 
+
+ζξῆῑιῑ · ⁶'
+ξ’ ὁμῇ-α’) 003160ἶαῦ ζψηξ
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ces equations sont celles d’une helice ordinaire.
+3. Trou-ver les com-bes dont la courbure a une valeur constante K.
+
+ό · 1⁶¹⁰ solution. Employons lee formales du Theoreme 1 en les
+erlvant
+
+dB
+
+K sino = sinA H} ²
+Keoso = ἐξ ·
+
+Ε1166 donneront
+da· = sinA sinB . ds ‚
+
+dy = sinA cosB . ds ‚
+dz = eoeA ‚
+A = K s 6666 ds ,
+
+sino ds
+B=Ksffiffffiffe·
+2⁶⁶ solution. Sortons dee formules du meme Theoreme en les
+
+ecrivant
+p' -Ι- q' = sin²A ,
+
+15²: sinA ἐξ,
+Κ.9.ᾱ8 = —deosA‚
+
+et observons que les trois equations contiennent cinq quantitee. On
+peut donc faire d'une d’elles‚ ou meme d'une combinaison de deux ou de
+plusieurs d’entre elles, une fonction arbitraire d’une autre. Par conse-
+quent il est permis de mettre
+

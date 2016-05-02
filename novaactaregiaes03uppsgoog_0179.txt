@@ -1,0 +1,42 @@
+FoRMUm-:s Poun ,LA Dl'ss'rERMINATION etc. 15
+
+p , ᾱΒ
+ἧεειῃΑᾶἏν
+ᾳ.61ΠΑ·(-Ξῑί-1>Ο,
+0=—dp.
+
+La dernibre (16 ces &quations mont-re qu'il nous faut donner ὲ, la
+quantit& p une valeur constante, et il suit (16 1'6quation
+
+19² ÷ 99 = sin²A
+
+que la valeur absolue (16 p doit &tre moindre que l’unito. Pour satisfaire
+ὲ ees deux conditione nous prenons
+
+p = cose = constant.
+
+N'ayant pas maintenant plus (16 deux squations contenant q, A,
+B, nous pouvons remplacer l’une (16 ces trois quantitos par une fonction
+de 8, arbitraire au moins entre certaines limites. ‘En ohoisissant ὲ, cetto
+fin la quantit& q nous voyons quo cette quantit& doit. &tre templaooe par
+une fonction numoriquement pl'us petite (ou' du moins pas plus grande)
+que sine, afin que nous aurons
+
+cos²c -Ι- q² = sin²A .
+Cette condition est templis, si nous prenons
+q = sinc . sinu,
+u &tant une fonction (16 8.
+
+Les quantitos p et q &tant dotorminoes (16 cette manisre nous
+obtiendrons facile'ment un systsme (16 valeurs (16 sinA, cosA‚ dB savoir:
+sinA = oosu . Voos²c ÷ tg²u,
+oosA = oosu . sin ο,
+
+cos c . du
+
+ἄμφω-(Ἦ
+
+2
+
+qui satissait aux squations
+

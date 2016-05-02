@@ -1,0 +1,48 @@
+4 G. F. E. monum, Uenu ENTSPRECHENDB ΒικαυιΑΒιΤᾸΊ-ΕΝ
+
+wo (wie immer im folgenden) n > m, und Μ, Ν, Ρ, nicht Nun vorans-
+geeetzt werden, so geht die Curve fiir α. = Ο durch den Anfangspunkt Ο,
+hat mit ihrer Tang-ente y = Ο eine ,n-Punktsberiihrung und schneidet
+jede andere durch Ο gehende Gerade in m Punkten. Die Singularitiit
+des betreffenden Curvenzweiges in Ο θηίὼὲἰΙῐ m—l Riickkehrpunkte‚ deun
+die Gleiehungen (5) laeeen m-—l Lesungen οι -- Ο zu.
+
+Aue (7) erhfflt man, nach Verkiirzung mit αἶ’-1,
+
+(12) . . . . φρ») = —NPnae-0· -ι- Νιῆω-ημπ-Μ· -ι- .....
+(13) . . . . φρ») -- „amm -ι- [ΜιΡφιι -ι- 1) -ι- Maon-1) ]00 -ι- .....
+(14) . . . . Εμ) = MN(n—m)ae· -ι- [M,N(n—m—1> -ι-
+
+-Ι- MN,<n-m -ι- 1)]a:·÷¹ ÷....
+
+Da der erete Ooeffieient jeder Zeile nieht versehwinden kann, so
+folgt hierauS, dass die Tangente in 0, von diesem Punlcte aus ρεῑοφεη, fiir
+n-faeh‚ sonet aber fiir (n—m)-fach gilt, sowie dass die betreffende Sin-
+gularitfit n—-m—1 Riiekkehr- oder Inflexions-Tangenten enthfflt ¹).
+
+Der Ourvenzweig kann, wie man leicht findet, in 0 vier verschiede-
+ne F ormen darbieten, jenachdem
+
+120> n gerade, m ungerade (Parabel-Typus),
+
+220) n und m ungerade (Infiexions-Typus)‚
+3:0) n ungerade‚ m gerade (Spitz-Typus erster Art),
+420) n und m gerade ( n )) zweiter Art)
+
+sind.
+
+Die Anzahlen der Glieder und die Grade der F unktionen φ, '¹¹¹ss
+haben auf sfimmtliohe diese Resultate keinen Einfiuss; dieselben behalten
+also ihre Gffltigkeit, auch wenn diese Funktionen unendlz‘clze converqirende
+Dignitdtsreihen sind.'
+
+¹) Die Anzahlen δ’ und τ’ der in 0 enthaltenen (duruit »eqvivalentenn Doppel·
+punkte und Doppeltangenten haugen dagegen nicht- nur von n und m. condem auch
+von den Exponenten der folgenden Glieder ab, insofern nicht n und m relative Prim-
+zahlen sind. In solehem Falle ist
+
+δ’ = ἒβη-1) (ra—3), τ’ = -ἒ (n—m—l) (n -3) .
+
+Siehe z. B. »Om eqvivalenter till hbgre singulariteter i plana aigebraiska kur·
+vor» vom Verf. (Ofvers. af Kongl. Vet. Akme Foth„ 1878. Nzo 7). .
+

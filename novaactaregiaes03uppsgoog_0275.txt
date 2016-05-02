@@ -1,0 +1,47 @@
+nu Buzour m· CAncHY. 27
+
+2) Si, au contraire, 1¹1< r, les r 1661666 communes aux equations
+(1) satisferont· aussi 6 l'equation obtenue. Mais le degre de cette equa·
+tion etant dans ce cas inferieur 6 r, les coefficients des diverses puis-
+sances de x et le terme constant seront necessairement tous 11616, 6’661-
+6-(1116ε 16 premier membre de l'equation sera identiquement- nul.
+
+20. Nous appliquerons maintenant la theorie precedente 6 66
+exemple. Mais avant cela, saisons remarquer prealablement qu'il est, au
+moins chez les determinante 6 6161116616 numeriques‚ beaucoup plus aise
+de reconnaitre 16 6611116 d'un determinant que, s’il 661 different de zero,
+d'en calculer la valeur. En effet, 16 61111116 du determinant peut 6116
+tres aisement reconnue 66 moyen du 1116616616 connu:
+
+Si l’on peut mettre un determinant eous une forme telle que tous 168 .
+
+6166161118 d'une lique ou d'une 66166116 soient 696166 rifero, le determinant
+681 nul.
+
+Dans un article, intitule: Sar une propriete (168 determinante 11618 ²),
+J'ai demontre la proposition reciproque, savoir:
+
+Si un determinant 681 nul, on peut le mettre 8668 une forme telle que
+1668 168 6161116618 d'une lique ou d'une colonae soient e'yaux ὰ 6616.
+
+Α11 moyen de 66 dernier theoreme on peut aussi aisement recon-
+
+naitre‚ 61 un determinant donne est different de zero,
+Ex,
+
+Chercher le nombre des 1661666 6661166666 aux equations:
+22⁵—11x2— 9 = Ο,
+4ae⁵÷11x⁴÷81 = Ο,
+
+61 trouver le plus grand commun diviseur de leurs premiers membres.
+Le systeme derive de ces equations est:
+
+22:1³⁴ -1- 44ae2 -ι- 198 = 0,
+-44x⁸÷12122²÷1982·-[7 99 = 0,
+44z⁴ -1- 121x³ -1- 1986ι -ι- 996 = 0,
+19822³÷ 996ι -891 = ο,
+1986-1- 992³ —89110 = 0.
+
+¹) voir: Nouvene Gor-respondam Mathematique, t. Ν, p. 373-376‚ Decem-
+bre 1878.
+

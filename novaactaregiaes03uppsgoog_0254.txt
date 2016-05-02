@@ -1,0 +1,47 @@
+6 Μ. FALK, Sus LA Ml‘s'rnooss D’EmeA'moN
+
+Dono l'e'quation (14) est condition adcessaire et wffisante pom· que les
+&quations (1) aient au moins une racine commune.
+Ainsi‚ par exemple, si les equations (1) sont:
+
+Α(.ᾱι;)Ξ.ςιε”-Ι-α.τι>-Ι-αι =0,
+Β(;ισ)Ξ.τυ’”-Ι-ἔκιε-Ιώι =O
+
+et que les racines de la premiere soient a:¹ et ,τῃ nous avons
+
+ 
+
+«ιρι-ὸ)
+
+Bora-oz 2 ÷<b,-a1>-<a—b>V{3-a2‚
+
+ 
+
+ 
+
+Bm) Ξ αςαΞ-ὸ)
+
+ 
+
+÷ (b1—a1> ÷ (a-b) V} — ⁶²1 ·
+
+Par suite, l'equation (16) devient ici:
+(a) ......... (bl—al? — (b—a) (abi—01& = Ο .
+Puisque, dans cet exemple‚ 16 systeme (13) est:
+·<b-a> a· ÷ (b1-a2> = 0,
+(bl—al) a: -Ι- (abl—asp) = Ο ‚
+son equation (14) devient:
+(b—a) (abl—aab) — (bl—ast* = Ο , ’
+
+qui ne differe de l’equation (α) que par 16 facteur— 1.
+
+Observons‚ au contraire, que la condition neeessaire et suffisante‚
+pour que les equations de notre exemple aient deuse racines communes
+consiste des deux equations simultanees:
+
+B(ae¹) = Ο , B(.1t2) = Ο ,
+lesquelles donnent aisement
+b ..—. a , b1 = a, ‚
+
+oe qui est d'ailleurs evident.
+

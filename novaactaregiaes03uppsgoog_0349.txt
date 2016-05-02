@@ -1,0 +1,57 @@
+IN ALGERRAISCHEN EBENEN CURVEN. 13
+
+ξ 12. Wir crwfihnen zum letzten cinige Beispiele.
+
+chn C vom dritten Grade ist, kann dic Ordnung der Evolutc (dic
+im allgemcinen 18 ist) bis vier siuken. Diescs cintrifft
+
+wenn C cine cinzige Inflexion hat und entweder in dereclben die
+00-Linie bcrfihrt (ndivergirendc Parabcl mit Spitze»), oder cirkulfir ist
+(DCisso'ideD) ;
+
+oder wenn C drei Inflexionen hat und in einer von ihnen die oo-Li-
+nic beriihrt (ndivcrgirende Parabcl mit Doppclpunktn), wiihrcnd dic bei-
+den iibrigen Riickkchrtangcnten durch Kreispunktc gehen„ Z. B. Dic Curvc
+9ay² = ιτι·(;ι,·--3α)’ hat die Evolutc
+
+256ικα-2ει3)8 4- 288ay²<7a—6.v) = 813⁴ .
+
+Die Ordnung der Evolutcn der Curvcn vierten Gradcs ist im allge-
+meinsten Faue 36, kann aber bis vier sinkcn. Dieses cintrifft z. B.
+
+fiir bicirkulfirc Evolvcntcn mit den Charaktercn μ = 4, ὃ = 2, κ = 1,
+ν--5, r=2, 1:43
+
+und' fiir Evolvcntcn mit drei Riickkchrpunkten, wenn entwcder zwei
+von diesen in Ι, J belegen sind (1›Cardio‘idc»>‚ oder die Curvo die oc-Li-
+nie in I, J beriihrt (DDrcispitzige Hypocycloidc»>. In den beiden lctztcn
+Fauen ist. die Evolute dcr Evolvente ganz fihnlich.
+
+Auch unter Curven vom fimften, und cogar untcr dcnjenigen vom
+sechsten Gradc trifft man solche mit Evoluten von dem vierten. Ein Bei-
+spicl der let-zten Art bietet cine tricirculiirc Curvc mit. den Charaktercn
+μ = 6, ὃ = 6, κ. = 4, ν -- 6, τ = 6, ι = 4, deren Coordinaten, rational aus-
+gedrfiokt‚ sind
+
+Ζ
+
+WWW ³
+
+ιι
+
+W>
+
+ 
+
+,L Ξ
+4oe⁹
+
+G) »Die cndlichcn Inflcxionen der Evolvente erzeugen ehensoviclc unendliche
+Punktc der Evolutc». Diescs ist nicht wahr, cratem wcnn die Inflexionetangcntc durch
+Kreiepunkt geht, zwcitene wenn die Inflexioncn mit Punktsingularitfitcn verbunden
+sind (ς 9). Kommt dae lctzterc in einem (n, m)-Punktc von Ο vor, so werden fiir
+
+n ξ 21η yar locine unendlichcn E-Punkte davon erzeugt‚ obglcich der o-Punkt n—m———l
+Ihficxioncn enthfilt3 fiir n >2m freilich n—2m uncndliche E-Punktcj welche zahl
+jedoch mit der socbcn genanntcn n—m-l nur fiir m = 1 iibcrcinstimmt.
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaes03uppsgoog_0153.png"; bbox 0 0 5463 6521; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 878 5773 1181 5821">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 878 5773 1181 5821">
+     <span class='ocr_line' id='line_1_1' title="bbox 878 5773 1181 5821; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 878 5773 910 5821; x_wconf 89' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_2' title='bbox 930 5773 1078 5821; x_wconf 53' lang='lat' dir='ltr'>Buff„</span> <span class='ocrx_word' id='word_1_3' title='bbox 1109 5773 1181 5821; x_wconf 68' lang='lat' dir='ltr'>dc]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1435 1229 1601 1289">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1435 1229 1601 1289">
+     <span class='ocr_line' id='line_1_2' title="bbox 1435 1229 1601 1289; baseline -0.012 -14"><span class='ocrx_word' id='word_1_4' title='bbox 1435 1229 1526 1289; x_wconf 70' lang='lat' dir='ltr'>Fzy</span> <span class='ocrx_word' id='word_1_5' title='bbox 1549 1231 1601 1274; x_wconf 79' lang='lat'>17.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2065 3218 2118 3268">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2065 3218 2118 3268">
+     <span class='ocr_line' id='line_1_3' title="bbox 2065 3218 2118 3268; baseline 0.038 -2"><span class='ocrx_word' id='word_1_6' title='bbox 2065 3218 2118 3268; x_wconf 73' lang='lat'>15.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2058 3556 2113 3603">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2058 3556 2113 3603">
+     <span class='ocr_line' id='line_1_4' title="bbox 2058 3556 2113 3603; baseline -0.018 -5"><span class='ocrx_word' id='word_1_7' title='bbox 2058 3556 2113 3603; x_wconf 73' lang='grc' dir='ltr'>τί,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2284 5868 3410 5952">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2284 5868 3410 5952">
+     <span class='ocr_line' id='line_1_5' title="bbox 2284 5868 3410 5952; baseline 0.004 -20"><span class='ocrx_word' id='word_1_8' title='bbox 2284 5868 2728 5933; x_wconf 74' lang='lat' dir='ltr'>Ocnerodrllus</span> <span class='ocrx_word' id='word_1_9' title='bbox 2778 5871 3217 5935; x_wconf 80' lang='lat' dir='ltr'>occidemalis</span> <span class='ocrx_word' id='word_1_10' title='bbox 3252 5890 3410 5952; x_wconf 65' lang='lat' dir='ltr'>usp.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 3998 5784 4786 5852">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 3998 5784 4786 5852">
+     <span class='ocr_line' id='line_1_6' title="bbox 3998 5784 4786 5852; baseline -0.003 -17"><span class='ocrx_word' id='word_1_11' title='bbox 3998 5784 4190 5835; x_wconf 48' lang='lat' dir='ltr'>‘cm-1¹22</span> <span class='ocrx_word' id='word_1_12' title='bbox 4212 5785 4489 5852; x_wconf 58' lang='lat' dir='ltr'>Tryckv-zet</span> <span class='ocrx_word' id='word_1_13' title='bbox 4518 5784 4786 5835; x_wconf 58' lang='lat' dir='ltr'>&amp;mahhelm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

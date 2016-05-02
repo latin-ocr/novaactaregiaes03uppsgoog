@@ -1,0 +1,43 @@
+111 nnn PHYSIKALISOHEN 01101110. 15
+
+meumumu fand [die spec. Warme bei 0⁰=0.03336 angenommen¹)]
+Spec.Wiirme von Hg zwischen 419⁰.7 C und ÷49⁰.6 =0.03312
+1 1 1 1 1 ÷25⁰.5 1 ÷l42⁰.2=0.03278.
+
+Die spec. Warme des Quecksilbers nimmt also mit steigcnder Temperatur
+
+ziemlich rasch ab [von 0⁰ bis 100⁰ um etwa 2⁰so] und kann durch diese
+Formel ausgedriickt werden
+
+c:t = 0ο ÷ at ..... [0Ο = 0.03336; a = —— 00000069 ].
+
+Bei οο verschiedenen Angaben ist eine erneuerte Untersuchung dieser
+Frage nothig.
+
+Derselbe Apparat, welcher im ersten Abschnitt beschrieben wurde‚
+diente bei der folgenden Untersuchung. Das Calorimeter «C» enthielt
+beim Anfang des Versuchs 4000 bis 6400 Grammen Quecksilber, welches
+allmahlig durch den Einfluss der kalteren Umgebung [((Ζ1 war mit zer-
+stossenem Eis ((Ι1 geffillt], eine constante Temperatur «t» zwischen
+00 und ÷1⁰G annahm. Im Luftbad wurde cine gewogene Quecksilber-
+menge erwarmt‚ bis das Thermometer constant die Temperatur θ
+zeigte [o=etwa 416⁰, ÷26‚ ÷36⁰]‚ nachher rasch in das Calorimeter 80-
+8000011, und die Temperatursteigerung desselben, unter Umrfihren‚ mit
+dem Fernrohr genau jede balbe Minute beobachtet. -Das erwarmte Queck-
+0111101 befand sich in einem mit Baumwolle wohl isolirten GefaSS, damit
+es nicht wahrend der Operation Warme an der Luft abgebe. Die Cor-
+rection der Endtemperatur des Calorimeters geschah 111 (101 0011011 110-
+001111011011011 Weise. Die Constanten sammtlicher Versuche waren:
+
+Spec. Warme des Quecksilbers zwischen 0⁰ und 450 =0.033266
+Gewicht des Calorimeters u. Riihrers in Versuch 1,11‚111 = 48.2158 Grm.
+
+1 1 1 1 1 1 1 IV, V =46.0114 1
+1 1 1 1 1 1 1 VI. . . =47.500 1
+1 1 1 1 1 1 1 VII. . . =48.2158 1
+1 1 1 1 1 1 VIII,1X‚X,X1,XII = 47.700 1
+1 1 Quecksilbers im Thermometer . . . . . . . . . = 25.04 1
+1 1 Thermometerglases . . . . . . . . . . . . . . . = 225 1
+
+¹) Dicae Annahme begriindet Wmnzmamn auf RucuAums Versuche.
+

@@ -1,0 +1,38 @@
+Fommms Pouss LA Dss‘rERMmATmN etc.
+
+ou aaa: e'quations
+
+Psin6 = sinA {gg ⁷
+· POOSO = (1ΐέ v
+Q = — Z—i—cosA (ἐξ
+
+donnera les &quations diffe'rentz'elles
+
+da· = sinA sinB (13 ‚
+dy = sinA cos'B ds ‚
+dz = cosA ds
+
+d'zme courbe dont la combure et la torsion sont ddtermz'ndes par
+K² = 12² ,
+T = Q .
+
+. 5. Supposons au deuxibme cas
+
+l = cos} = sinA sinB ,
+m = eosq = siuA oosB,
+
+n = οοεζ = c'bsA
+d'oh l’on tire
+P' = K² -Ι- T',
+d T
+Q = H} arctg ff ·
+
+De ces &quations on d6duit par diffaesrentiation
+
+Τοοελ- Κ cosa. = sinA oosB {I} -Ι- οοειΑ sinB ἐξ ⁷
+. . dB dA
+T οοεμ- K cos& = - smA smB Ti} -Ι- cosA cosB “ch υ
+dA
+
+T oosv — K cosy = — sinA -c-L}
+

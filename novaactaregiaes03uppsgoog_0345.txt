@@ -1,0 +1,42 @@
+m ALGEBRAISCHEN EBENEN CURVEN. 9
+
+aus (29) ergiebt sich, nach Verkiirzen mit oum-¹,
+(31) ..... u = N(n-vn)oe'”·¹'” -Ι- N¹ (n—-m -Ι- l)a.'”†.”·'·¹ -ς- .....
+(32)...., ....... v=—-moe''⁸‚w=m÷....
+
+RE beriihrt also u = Ο in u = v = 0, wele-her (m -Ι- n, m>-Punkt ist;
+Ε beriihrt folglich z = Ο im Punkte y =z = 0 und hat die Indices
+(φη-Ι-η, n). ’ (Fig. 13—16>.
+
+(3,) Die oe-Linie sei C-Tangente‚ also
+
+(33) ......... w,=oe.''‚ 2=Noe’⁸-!-N1oe”⁴¹÷....;
+
+man erhfflt aus (29), nach Verkiirzen mit αι’-1,
+
+(34)...u=N‘<m-n)ae·÷¹·÷ ..... v=—N²na:·÷....‚ w=Nn†....
+
+RE beriihrt also u = Ο in u = v ΞὈ, welcher (m -Ι- η, n)·Punkt ist3
+E berfihrt folglich z = Ο im Punkte y= z = Ο und hat die Indices
+(νη-Ι-η, m). (Fig. 17-20).
+
+ξ 7. d) Die C-Tangente ist entweder eine endliche oder die unend-
+liche Gerade. Im ersten Faue (dl) verlegen wir 0 auf derselben.
+dl) Die C-Coordinaten ω, z seien daun
+
+(35) τεοῦ, ωΞί-Ι-Να”··ῧ-Νιαι”““”·4-....;
+
+aus (29) θτὶιὲΙῐ man
+
+ 
+
+alst), nach Verkiirzen mit com-¹,
+
+(37) . . iu -Ι- υ = N(n—-m)ioe’⁸ -Ι- ..... υ =-m ..... w = N(2m-—n)ia·-⁰· -Ι-...
+
+Dutch Anwendung des Dualitiitsprinoips ergiebt sich folglich: Mit
+Ausnalzme des Falles n = 21η, werden der Pankt, die Tanqente und die ln·
+dices der Evolute ganz dieselben wie diejeniyen der Evolveme.
+
+Nova Aeta Reg. Soc. Sc. Πρω. Ser. 111. 2
+

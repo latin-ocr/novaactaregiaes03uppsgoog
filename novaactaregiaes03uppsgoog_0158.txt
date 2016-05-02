@@ -1,0 +1,46 @@
+2 M. FALK, Mai-aon 'ro mm) 'rm-3 onsATss‘r common· MsAsuss
+
+B
+
+21‘(·z·)= ΕΓΖ Φ(.ι·), ifm = n,
+and
+Ψ(.Υ) = Ξ ae’'·‘⁷''‹b(.z·) -Ι- Ψι(.τ), if m < η.
+
+These equations demonstrate evidently the truth of the theorem.
+
+It is of practical use to observe, that the sanction Ψιζφ) is imme-
+diately obtained by omittiny in Ψ(.τ) all tlte ter-ms, which involve the m 4- 1
+lw‘ylzest powers of α’.
+
+Il. If, when m < n, the theorem just proved is also applicable
+to the functions α’(ω) ‚and Ψκω), either the greatest common measure
+of the given functions will be found by simply applying the theo-
+rem, or one will obtain a new function, such that the greatest com-
+mon measure of it and of that of the functions o(oe) and †,(x), which
+is of the lower degree, will be the same as the greatest. common mea·
+sure of the given functions. Going on in this way applying the
+theorem as often as possible, either the greatest common measure of
+thc given functions will be found or one must finally obtain two func-
+tions not satisfying the conditions of the above theorem, the greatest
+common measure of which will also be that of the given functione.
+
+It remains, therefore, only to sheW, how to find the greatest common
+measure of two functions, neither of them involvingapower ofoe as factor
+and both of which are such, that their coefficients do not satisfy the whole
+system os conditions (2) for the applicability of the theorem in I. Moreover,
+allowing one of these functione, but not both, to contain a power of ,τ as
+factor, we may suppose them to be of the same degree, because, as by
+supposition their greatest common measure does not involve any power
+of ‚r as factor, it. will remain unaltered, if we multiply the function of
+the lower degree bv a suitable power of x.
+
+III. Suppose we have the functions:
+
+φ(.τι·) = aoat'· -†- (1,.93”““ι ··Ι- .. . -Ι- (1,,,33 ··Ι- a„,
+(4) ⁶⁶⁶⁶⁶ immas) = boa-'⁸ ··Ι- b,oe”‘¹ -Ι- . . . 4· ‘’n-1³¹5 -Ι- b„
+
+of which both do not involve powers of ,v as factore and which at the same
+time are such, that not all the coefficients in that, where the index of the last
+
+“ coefficient that really occurs is the least, are proportional to the correspon-
+
